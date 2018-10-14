@@ -1,1 +1,1 @@
-scala的线程程序
+scala thread code
